@@ -69,7 +69,7 @@ Xamarin.Forms let us create great apps that our users love but how to be prepare
   
 How to integrate a ChatBot in you Xamarin.Forms cross-platform application using Luis.AI and let your users communicate with your ChatBot using natural language.
 
-[(GitHub)](https://github.com/codrinamerigo/)
+[(Slides)](https://github.com/XamarinExpertDay/XamExpertDay2020/raw/main/Use AI In your Xamarin.Forms app to create a chatbot/XamExpertDay2020_Codrina.pptx)   [(GitHub)](https://github.com/codrinamerigo/)
 <br/>
 <br/>
 ### Supercharge You Custom Controls With Control Templates
