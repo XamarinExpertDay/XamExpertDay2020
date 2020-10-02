@@ -13,13 +13,9 @@ The sessions are in chronological order.
 
 ### .Net Maui MVU
 
-<img src="./Images/James Clancey.png" style="float:left">
-
 **James Clancey** - [@JTClancey](https://twitter.com/jtclancey)
 
 Get to know the "Ins and Outs" of MVU.
-
-</img>
 
 [(GitHub)](github.com/clancey/ )     [https://github.com/Clancey/Comet]
      
