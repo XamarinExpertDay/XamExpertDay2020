@@ -13,17 +13,21 @@ The sessions are in chronological order.
 
 ### .Net Maui MVU
 
-**James Clancey** - [@jtclancey](https://twitter.com/jtclancey)
+<img src="./Images/James Clancey.png" style="float:left">
+
+**James Clancey** - [@JTClancey](https://twitter.com/jtclancey)
 
 Get to know the "Ins and Outs" of MVU.
 
-[(GitHub)](github.com/clancey/ )      
+</img>
+
+[(GitHub)](github.com/clancey/ )     [https://github.com/Clancey/Comet]
      
      
 
 ### Drawing advanced UIs in Xamarin
 
-**Konrad Müller** - [@konmue](https://twitter.com/konmue)
+**Konrad Müller** - [@KonMue](https://twitter.com/konmue)
 
 When the default controls of Xamarin reach their limits, different drawing APIs can be utilized to create advanced UI components.
 We will take a look at the current available options and explore how and when to use them.
@@ -34,7 +38,7 @@ We will take a look at the current available options and explore how and when to
 
 ### TinyMvvm for Xamarin.Forms
 
-**Daniel Hindrikes** - [@hindrikes](https://twitter.com/hindrikes)
+**Daniel Hindrikes** - [@Hindrikes](https://twitter.com/hindrikes)
 
 TinyMvvm is an open-source library created by Daniel Hindrikes when he realized that he spends a lot of time writing the same code over and over again when he started new apps but also in the same app when adding new views and ViewModels.
 
@@ -42,20 +46,24 @@ Some of the futures in TinyMvvm:
 * NavigationHelper that supports both Shell and the classic NavigationService.
 * Passing objects as parameters, both when using Shell and classic navigation.
 * ViewModel navigation with Shell.
-* Add BindingContext in View, but still be able to use DI in VIewModels.
+* Add BindingContext in View, but still be able to use DI in ViewModels.
 * Lifecycle events in ViewModels.
 * INotiftyPropertyChanged implementation.
 
 In this session, Daniel will show you how to use TinyMvvm but also how it is built to get a deeper understanding of how it works under the hood.
+
+[(GitHub)](https://github.com/dhindrik/)    [(TinyStuff)](https://github.com/tinystuff)    
     
-    
+
+
+
 ### The recipe for Cake and Xamarin
 
 **Damian Antonowicz** - [@D_Antonowicz](https://twitter.com/D_Antonowicz)
 
 Creating cross-platform scripts in C#? It's easy with Cake! I will show how to create your first Cake script for building and deploying Xamarin apps. Tasty! 
 
-
+[(CakeAndXamarinPlayground)](https://github.com/DamianAntonowicz/CakeAndXamarinPlayground/)
 
 
 
@@ -64,7 +72,7 @@ Creating cross-platform scripts in C#? It's easy with Cake! I will show how to c
 
 **Alexandre Santos Costa**
 
-Xamarin.Forms let us create great apps that our users love but how to bre prepared for different kind of users and disabilities? In this session I will demonstrate how to unleash all the power of XAML and the native platforms to make you apps sexy for all.
+Xamarin.Forms let us create great apps that our users love but how to be prepared for different kind of users and disabilities? In this session I will demonstrate how to unleash all the power of XAML and the native platforms to make you apps sexy for all.
     
     
 ### Use AI In your Xamarin.Forms app to create a chatbot
@@ -106,7 +114,7 @@ Gone are the days of needing to Right-Click-Publish. Mobile DevOps bring certain
 
 ### Introducing .NET MAUI
 
-**David Ortinau** - [@davidortinau](https://twitter.com/davidortinau)
+**David Ortinau** - [@DavidOrtinau](https://twitter.com/davidortinau)
 
 Come learn how Microsoft is evolving Xamarin.Forms into the next generation application development toolkit. Whether you are buildings an app for one platform or many, .NET MAUI will deliver the most productive development experience as you target Android, iOS, macOS, Windows, and beyond. The future of .NET app development is being shaped in the open, and we want you to be involved!
 
