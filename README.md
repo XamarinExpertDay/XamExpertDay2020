@@ -15,10 +15,9 @@ The sessions are in chronological order.
 **James Clancey** - [@JTClancey](https://twitter.com/jtclancey)  
 Get to know the "Ins and Outs" of MVU.    
   
-[(GitHub)](github.com/clancey/ )   [github.com/Clancey/Comet](https://github.com/Clancey/Comet)
-  
-  
-  
+[(GitHub)](github.com/clancey/ )   [github.com/Clancey/Comet](https://github.com/Clancey/Comet)    
+<br/>
+<br/>
 ### Drawing advanced UIs in Xamarin
   
 **Konrad Müller** - [@KonMue](https://twitter.com/konmue)
@@ -27,9 +26,8 @@ When the default controls of Xamarin reach their limits, different drawing APIs 
 We will take a look at the current available options and explore how and when to use them.
   
 [(GitHub)](https://github.com/krdmllr/ ) 
-  
-  
-  
+<br/>
+<br/>
 ### TinyMvvm for Xamarin.Forms
   
 **Daniel Hindrikes** - [@Hindrikes](https://twitter.com/hindrikes)
@@ -47,9 +45,8 @@ Some of the futures in TinyMvvm:
 In this session, Daniel will show you how to use TinyMvvm but also how it is built to get a deeper understanding of how it works under the hood.
   
 [(Slides)](https://github.com/XamarinExpertDay/XamExpertDay2020/raw/main/TinyMvvm%20for%20Xamarin.Forms/TinyMvvm.pptx)   [(TinyStuff)](https://github.com/tinystuff)   [(GitHub)](https://github.com/dhindrik/)   
-  
-  
-  
+<br/>
+<br/>
 ### The recipe for Cake and Xamarin
   
 **Damian Antonowicz** - [@D_Antonowicz](https://twitter.com/D_Antonowicz)
@@ -57,16 +54,15 @@ In this session, Daniel will show you how to use TinyMvvm but also how it is bui
 Creating cross-platform scripts in C#? It's easy with Cake! I will show how to create your first Cake script for building and deploying Xamarin apps. Tasty! 
 
 [(Slides)](https://github.com/XamarinExpertDay/XamExpertDay2020/raw/main/The%20recipe%20for%20Cake%20and%20Xamarin/The%20Recipe%20for%20Cake%20and%20Xamarin.pptx )   [(CakeAndXamarinPlayground)](https://github.com/DamianAntonowicz/CakeAndXamarinPlayground/) 
-  
-  
-  
+<br/>
+<br/>
 ### Accessibility in Xamarin.Forms
   
 **Alexandre Santos Costa**
   
 Xamarin.Forms let us create great apps that our users love but how to be prepared for different kind of users and disabilities? In this session I will demonstrate how to unleash all the power of XAML and the native platforms to make you apps sexy for all.
-    
-    
+<br/>
+<br/>
 ### Use AI In your Xamarin.Forms app to create a chatbot
   
 **Codrina Merigo** - [@&#95;Codrina&#95;](https://twitter.com/_Codrina_)
@@ -74,9 +70,8 @@ Xamarin.Forms let us create great apps that our users love but how to be prepare
 How to integrate a ChatBot in you Xamarin.Forms cross-platform application using Luis.AI and let your users communicate with your ChatBot using natural language.
 
 [(GitHub)](https://github.com/codrinamerigo/)
-  
-  
-  
+<br/>
+<br/>
 ### Supercharge You Custom Controls With Control Templates
   
 **Hussain Abbasi** - [@HussainNAbbasi](https://twitter.com/HussainNAbbasi)
@@ -91,9 +86,8 @@ How do they work?
 In this session, we will go over the concept and examples of creating and consuming Control Templates. We will live code a responsive UI that is configured at runtime. You don’t want to miss it.
 
 [(blog)](https://intelliAbb.com/)   
-  
-  
-  
+<br/>
+<br/>
 ### Mobile DevOps with Xamarin Applications
   
 **Dan Siegel** - [@DanJSiegel](https://twitter.com/DanJSiegel)
@@ -101,9 +95,8 @@ In this session, we will go over the concept and examples of creating and consum
 Gone are the days of needing to Right-Click-Publish. Mobile DevOps bring certain challenges not faced by desktop and web. Learn about the best practices for Mobile DevOps and explore how to set up your own CI/CD pipelines with Azure DevOps and AppCenter.
 
 [(blog)](https://dansiegel.net/)
-  
-  
-  
+<br/>
+<br/>
 ### Introducing .NET MAUI
   
 **David Ortinau** - [@DavidOrtinau](https://twitter.com/davidortinau)
@@ -111,9 +104,8 @@ Gone are the days of needing to Right-Click-Publish. Mobile DevOps bring certain
 Come learn how Microsoft is evolving Xamarin.Forms into the next generation application development toolkit. Whether you are buildings an app for one platform or many, .NET MAUI will deliver the most productive development experience as you target Android, iOS, macOS, Windows, and beyond. The future of .NET app development is being shaped in the open, and we want you to be involved!
 
 [(blog)](https://davidortinau.com/)
-  
-  
-  
+<br/>
+<br/>
 ------
 
 If you wish to rectify or complement any information send a message to [@ZeProgFactory](https://twitter.com/ZeProgFactory) or make a pull request ;-)
