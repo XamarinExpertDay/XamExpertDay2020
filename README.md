@@ -1,37 +1,37 @@
 # Xamarin Expert Day 2020 (@XamExpertDay)
 
 All slides and relevant things from the XamExpertDay2020. The event will be held virtually on October 2nd  2020.
-  
+
 https://expertday.forxamarin.com/
-  
+
 ## Sessions
-  
+
 The sessions are in chronological order.
+
   
-  
-  
+
 ### .Net Maui MVU
-  
+
 **James Clancey** - [@JTClancey](https://twitter.com/jtclancey)  
 Get to know the "Ins and Outs" of MVU.    
-  
+
 [(GitHub)](github.com/clancey/ )   [github.com/Clancey/Comet](https://github.com/Clancey/Comet)    
 <br/>
 <br/>
 ### Drawing advanced UIs in Xamarin
-  
+
 **Konrad Müller** - [@KonMue](https://twitter.com/konmue)
-  
+
 When the default controls of Xamarin reach their limits, different drawing APIs can be utilized to create advanced UI components.
 We will take a look at the current available options and explore how and when to use them.
-  
+
 [(GitHub)](https://github.com/krdmllr/ ) 
 <br/>
 <br/>
 ### TinyMvvm for Xamarin.Forms
-  
+
 **Daniel Hindrikes** - [@Hindrikes](https://twitter.com/hindrikes)
-  
+
 TinyMvvm is an open-source library created by Daniel Hindrikes when he realized that he spends a lot of time writing the same code over and over again when he started new apps but also in the same app when adding new views and ViewModels.
 
 Some of the futures in TinyMvvm:
@@ -43,39 +43,40 @@ Some of the futures in TinyMvvm:
 * INotiftyPropertyChanged implementation.
 
 In this session, Daniel will show you how to use TinyMvvm but also how it is built to get a deeper understanding of how it works under the hood.
-  
+
 [(Slides)](https://github.com/XamarinExpertDay/XamExpertDay2020/raw/main/TinyMvvm%20for%20Xamarin.Forms/TinyMvvm.pptx)   [(TinyStuff)](https://github.com/tinystuff)   [(GitHub)](https://github.com/dhindrik/)   
 <br/>
 <br/>
 ### The recipe for Cake and Xamarin
-  
+
 **Damian Antonowicz** - [@D_Antonowicz](https://twitter.com/D_Antonowicz)
-  
+
 Creating cross-platform scripts in C#? It's easy with Cake! I will show how to create your first Cake script for building and deploying Xamarin apps. Tasty! 
 
 [(Slides)](https://github.com/XamarinExpertDay/XamExpertDay2020/raw/main/The%20recipe%20for%20Cake%20and%20Xamarin/The%20Recipe%20for%20Cake%20and%20Xamarin.pptx )   [(CakeAndXamarinPlayground)](https://github.com/DamianAntonowicz/CakeAndXamarinPlayground/) 
 <br/>
 <br/>
 ### Accessibility in Xamarin.Forms
-  
+
 **Alexandre Santos Costa**
-  
+
 Xamarin.Forms let us create great apps that our users love but how to be prepared for different kind of users and disabilities? In this session I will demonstrate how to unleash all the power of XAML and the native platforms to make you apps sexy for all.
 <br/>
 <br/>
 ### Use AI In your Xamarin.Forms app to create a chatbot
-  
+
 **Codrina Merigo** - [@&#95;Codrina&#95;](https://twitter.com/_Codrina_)
-  
+
 How to integrate a ChatBot in you Xamarin.Forms cross-platform application using Luis.AI and let your users communicate with your ChatBot using natural language.
 
-[(Slides)](https://github.com/XamarinExpertDay/XamExpertDay2020/raw/main/Use AI In your Xamarin.Forms app to create a chatbot/XamExpertDay2020_Codrina.pptx)   [(GitHub)](https://github.com/codrinamerigo/)
+[(Slides)](https://github.com/XamarinExpertDay/XamExpertDay2020/blob/main/Use%20AI%20In%20your%20Xamarin.Forms%20app%20to%20create%20a%20chatbot/XamExpertDay2020_Codrina.pptx?raw=true)   [(GitHub)](https://github.com/codrinamerigo/)
 <br/>
 <br/>
+
 ### Supercharge You Custom Controls With Control Templates
-  
+
 **Hussain Abbasi** - [@HussainNAbbasi](https://twitter.com/HussainNAbbasi)
-  
+
 What are Control Templates?
 Control Templates are a great way to customize your app’s view with themes and custom layouts. Xamarin.Forms has Control Templates that allow for separation of the presentation layer from the control. This enables the configuration of the UI at runtime.
 
@@ -89,21 +90,26 @@ In this session, we will go over the concept and examples of creating and consum
 <br/>
 <br/>
 ### Mobile DevOps with Xamarin Applications
-  
+
 **Dan Siegel** - [@DanJSiegel](https://twitter.com/DanJSiegel)
-  
+
 Gone are the days of needing to Right-Click-Publish. Mobile DevOps bring certain challenges not faced by desktop and web. Learn about the best practices for Mobile DevOps and explore how to set up your own CI/CD pipelines with Azure DevOps and AppCenter.
 
-[(blog)](https://dansiegel.net/)
+[(slides (zip))](https://github.com/XamarinExpertDay/XamExpertDay2020/blob/main/Mobile%20DevOps%20with%20Xamarin%20Applications/Mobile%20DevOps%20with%20Xamarin%20Applications.pptx.zip?raw=true)   [(blog)](https://dansiegel.net/)
 <br/>
 <br/>
+
 ### Introducing .NET MAUI
-  
+
 **David Ortinau** - [@DavidOrtinau](https://twitter.com/davidortinau)
-  
+
 Come learn how Microsoft is evolving Xamarin.Forms into the next generation application development toolkit. Whether you are buildings an app for one platform or many, .NET MAUI will deliver the most productive development experience as you target Android, iOS, macOS, Windows, and beyond. The future of .NET app development is being shaped in the open, and we want you to be involved!
 
 [(blog)](https://davidortinau.com/)
+<br/>
+<br/>
+## "Live" stream
+[full live stream](https://www.youtube.com/watch?v=rTVPs0nKJjw)
 <br/>
 <br/>
 ------
