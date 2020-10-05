@@ -1,3 +1,5 @@
+<img src="Images/XamExpertDay2020.png" height="300" />
+
 # Xamarin Expert Day 2020 (@XamExpertDay)
 
 All slides and relevant things from the XamExpertDay2020. The event was held virtually on October 2nd  2020.
