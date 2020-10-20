@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="UiDrawing.Controls.ShapeSample">
+    <ContentView.Content>
+        <Grid>
+            <Path Stroke="Black" StrokeThickness="10" Aspect="Uniform">
+                <Path.Fill>
+                    <LinearGradientBrush>
+                        <LinearGradientBrush.GradientStops>
+                            <GradientStop Color="LightBlue" Offset="0" />
+                            <GradientStop Color="LightCoral" Offset="1" />
+                        </LinearGradientBrush.GradientStops>
+                    </LinearGradientBrush>
+                </Path.Fill>
+                <Path.Data>
+                    <PathGeometry>
+                        <PathGeometry.Figures>
+                            <PathFigure StartPoint="0, 0" IsClosed="True">
+                                <PathFigure.Segments>
+                                    <LineSegment Point="100, 0"></LineSegment>
+                                    <LineSegment Point="100, 200" />
+                                    <LineSegment Point="50, 200" />
+                                    <ArcSegment Point="0, 150" Size="50, 50" SweepDirection="Clockwise"></ArcSegment>
+                                </PathFigure.Segments>
+                            </PathFigure>
+                        </PathGeometry.Figures>
+                    </PathGeometry>
+                </Path.Data>
+            </Path>
+            <Ellipse HeightRequest="100" 
+                     WidthRequest="100" 
+                     Fill="Blue" 
+                     VerticalOptions="Center" 
+                     HorizontalOptions="Center" />
+        </Grid>
+        
+</ContentView.Content>
+</ContentView>
