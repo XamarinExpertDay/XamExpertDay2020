@@ -27,9 +27,10 @@ Get to know the "Ins and Outs" of MVU.
 When the default controls of Xamarin reach their limits, different drawing APIs can be utilized to create advanced UI components.
 We will take a look at the current available options and explore how and when to use them.
 
-[(session)](https://youtu.be/qpm0YYyMtpQ)   [(GitHub)](https://github.com/krdmllr/ ) 
+[(session)](https://youtu.be/qpm0YYyMtpQ)   [(Slides)](https://github.com/XamarinExpertDay/XamExpertDay2020/raw/main/xamarin-drawing-ui-konrad-mueller.pdf)   [(Sample)](https://github.com/XamarinExpertDay/XamExpertDay2020/raw/main/DrawingUiInXamarin/sample-src.zip)   [(GitHub)](https://github.com/krdmllr/ ) 
 <br/>
 <br/>
+
 ### TinyMvvm for Xamarin.Forms
 
 **Daniel Hindrikes** - [@Hindrikes](https://twitter.com/hindrikes)
@@ -49,6 +50,7 @@ In this session, Daniel will show you how to use TinyMvvm but also how it is bui
 [(session)](https://youtu.be/rS-cnU86870)   [(Slides)](https://github.com/XamarinExpertDay/XamExpertDay2020/raw/main/TinyMvvm%20for%20Xamarin.Forms/TinyMvvm.pptx)   [(TinyStuff)](https://github.com/tinystuff)   [(GitHub)](https://github.com/dhindrik/)   
 <br/>
 <br/>
+
 ### The recipe for Cake and Xamarin
 
 **Damian Antonowicz** - [@D_Antonowicz](https://twitter.com/D_Antonowicz)
